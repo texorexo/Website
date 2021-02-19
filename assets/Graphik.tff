@@ -1,0 +1,22 @@
+--2021-02-13 08:10:49--  https://github.com/opr/bloc/blob/master/assets/fonts/Graphik-Semibold.ttf?raw=true
+Resolving github.com (github.com)... 13.250.177.223
+Connecting to github.com (github.com)|13.250.177.223|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://github.com/opr/bloc/raw/master/assets/fonts/Graphik-Semibold.ttf [following]
+--2021-02-13 08:10:49--  https://github.com/opr/bloc/raw/master/assets/fonts/Graphik-Semibold.ttf
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://raw.githubusercontent.com/opr/bloc/master/assets/fonts/Graphik-Semibold.ttf [following]
+--2021-02-13 08:10:50--  https://raw.githubusercontent.com/opr/bloc/master/assets/fonts/Graphik-Semibold.ttf
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.108.133, 185.199.111.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 147012 (144K) [application/octet-stream]
+Saving to: ‘Graphik-Semibold.ttf?raw=true’
+
+     0K .......... .......... .......... .......... .......... 34% 1.44M 0s
+    50K .......... .......... .......... .......... .......... 69% 3.97M 0s
+   100K .......... .......... .......... .......... ...       100% 1.70M=0.07s
+
+2021-02-13 08:10:50 (1.97 MB/s) - ‘Graphik-Semibold.ttf?raw=true’ saved [147012/147012]
+
